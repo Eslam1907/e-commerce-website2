@@ -1,0 +1,9 @@
+@media (max-width:868px) {
+    .annocument .img{
+        height: 150px !important;
+    }
+    .background {
+    
+        padding: 30px 0;
+    }
+}

@@ -1,0 +1,49 @@
+.flash {
+  background: #f6f9fc;
+
+  padding: 50px 0;
+}
+
+@media (max-width:868px) {
+  .box{
+    width: 292px;
+  
+  }
+  .box img {
+    width: 100px;
+  }
+.product-details{
+  font-size: 12px;
+}
+.product .rate i {
+  font-size: 9px;
+  color: #ffcd4e;
+  margin: 11px 0px;
+  padding: 0;
+}
+
+.product h3 {
+  font-weight: 400;
+  font-size: 15px;
+}
+.product .price {
+
+  flex-wrap: wrap;
+}
+.product .price h4{
+margin-bottom: 5px;
+}
+.control-btn .next, .control-btn .prev {
+  top: 40%;
+  width: 30px;
+  height: 30px;
+}
+.control-btn .prev i, .control-btn .next i {
+  font-size: 19px;
+  transition: 0.5s;
+  color: #fff;
+  position: absolute;
+  top: 20%;
+  left: 19%;
+}
+}
